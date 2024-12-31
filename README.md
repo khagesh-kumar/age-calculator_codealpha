@@ -12,4 +12,4 @@ This is a simple Age Calculator application built using HTML, CSS, and JavaScrip
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/age-calculator-codealpha.git
+   git clone https://github.com/khagesh-kumar/age-calculator-codealpha.git
